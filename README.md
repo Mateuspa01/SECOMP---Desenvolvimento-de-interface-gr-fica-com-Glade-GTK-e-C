@@ -27,7 +27,7 @@ Este projeto demonstra a criação de uma interface gráfica simples em **C**, u
 
 ```
 ## 📃 Compilação
-- gcc main.c - sistema `pkg-config --cflags --libs gtk+-3.0`
+- gcc main.c -o sistema `pkg-config --cflags --libs gtk+-3.0`
 
 ## 💻 Execução
 - ./sistema
