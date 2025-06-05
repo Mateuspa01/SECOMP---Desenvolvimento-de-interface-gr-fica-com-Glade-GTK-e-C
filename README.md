@@ -25,6 +25,7 @@ Este projeto demonstra a criação de uma interface gráfica simples em **C**, u
 ├── main.c                # Código-fonte em C
 ├── README.md             # Este arquivo
 
+```
 ## 📃 Compilação
 - gcc main.c - sistema `pkg-config --cflags --libs gtk+-3.0`
 
